@@ -1,4 +1,4 @@
-# Devops Project: video-converter
+# video-to-audio-conversion
 Converting mp4 videos to mp3 in a microservices architecture.
 
 ## Architecture
@@ -272,4 +272,4 @@ To clean up the infrastructure, follow these steps:
 1. **Delete the Node Group:** Delete the node group associated with your EKS cluster.
 
 2. **Delete the EKS Cluster:** Once the nodes are deleted, you can proceed to delete the EKS cluster itself.# video-to-audio-conversion
-# video-to-audio-conversion
+
